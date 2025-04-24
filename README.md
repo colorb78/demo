@@ -1,3 +1,1 @@
-# demo
-Hello
-Demo
+This readme provides you information regarding this project. 
